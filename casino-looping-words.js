@@ -3,7 +3,7 @@
  * Вертикальная анимация слов с подсветкой и динамической рамкой
  * Requires: GSAP 3.12.5+
  */
-
+<script>
 (function() {
   'use strict';
   
@@ -128,18 +128,4 @@
 })();
 ```
 
----
-
-### **4. Commit (сохраните файл)**
-
-Внизу страницы:
-- **Commit message:** можете оставить "Create casino-looping-words.js" или написать что-то своё
-- Нажмите зелёную кнопку **"Commit new file"**
-
----
-
-### **5. Получите ссылку на CDN**
-
-После создания файла, ваша ссылка для jsDelivr будет:
-```
-https://cdn.jsdelivr.net/gh/vc-rgb/webflow-project@main/casino-looping-words.js
+<script>
